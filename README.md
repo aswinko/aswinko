@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Aswin K.O</h1>
+<h3 align="center">🚀 Full Stack Developer | MCA @ SJCET Palai | Tech Lead | Innovator</h3>
 
-<!--
-**aswinko/aswinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🎓 MCA Student at **SJCET Palai**
+- 💻 Passionate **Full Stack Developer** and **Freelancer**
+- ⚙️ Skilled in building **AI-powered** and **Next.js** based applications  
+- 🧩 Interested in **AI integration**, **automation tools**, and **creative tech products**
+- 🌱 Currently exploring **Advanced RAG systems** and **Generative AI**
+- 💬 Ask me about **Next.js, React, Node.js, MongoDB, TailwindCSS, ShadCN, or Supabase**
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages & Frameworks
+`JavaScript` • `TypeScript` • `React` • `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `MySQL` • `Python` • `Java` • `TailwindCSS` • `ShadCN`
+
+#### 🧠 AI & Cloud
+`OpenAI` • `Hugging Face` • `AWS S3` • `Upstash` • `Supabase` • `PostgreSQL`
+
+#### ⚙️ Tools & Platforms
+`GitHub` • `Vercel` • `Bun` • `VS Code` • `Figma` • `GoDaddy` • `Render`
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧬 [NeuroInsight.ai](https://github.com/predystopic-dev/neuro-insight)
+AI-powered file interaction platform enabling **search, summarization, and analysis** of local documents using **RAG** architecture.
+
+#### ⚡ [Voltix](https://github.com/predystopic-dev/voltix)
+Smart **electricity meter reading app** with real-time data, offline mode, and route optimization.
+
+#### 🧠 [AI PDF Summarizer](https://github.com/predystopic-dev/ai-pdf-summarizer)
+Chat-based platform that summarizes and interacts with PDF content using **Next.js + PostgreSQL + AWS S3**.
+
+#### 🍴 [QR Code Ordering App](https://github.com/predystopic-dev/qr-ordering)
+A **MERN stack** restaurant system where users can scan, order, and track food directly via QR codes.
+
+#### 🧮 [AI Calculator](https://github.com/predystopic-dev/ai-calculator)
+A **Gemini-powered** calculator app that recognizes **hand-drawn equations** using an AI canvas.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=predystopic-dev&show_icons=true&theme=radical" alt="Aswin's GitHub stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=predystopic-dev&theme=radical" alt="GitHub Streak" height="170" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/aswinkodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/predystopic-dev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
+  <a href="mailto:aswinkodev@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
+  <a href="https://aswinkodev.in" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=firefox" /></a>
+</p>
+
+---
+
+### 💡 Fun Fact
+> “Code, Coffee, and Creativity ☕ — that’s how great ideas turn into real projects!”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:fddb92&height=100&section=footer" />
+</p>
