@@ -29,25 +29,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🧬 [NeuroInsight.ai](https://github.com/predystopic-dev/neuro-insight)
-AI-powered file interaction platform enabling **search, summarization, and analysis** of local documents using **RAG** architecture.
-
-#### ⚡ [Voltix](https://github.com/predystopic-dev/voltix)
-Smart **electricity meter reading app** with real-time data, offline mode, and route optimization.
-
-#### 🧠 [AI PDF Summarizer](https://github.com/predystopic-dev/ai-pdf-summarizer)
-Chat-based platform that summarizes and interacts with PDF content using **Next.js + PostgreSQL + AWS S3**.
-
-#### 🍴 [QR Code Ordering App](https://github.com/predystopic-dev/qr-ordering)
-A **MERN stack** restaurant system where users can scan, order, and track food directly via QR codes.
-
-#### 🧮 [AI Calculator](https://github.com/predystopic-dev/ai-calculator)
-A **Gemini-powered** calculator app that recognizes **hand-drawn equations** using an AI canvas.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
