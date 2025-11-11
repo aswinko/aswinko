@@ -40,10 +40,11 @@
 
 ### 🌐 Connect With Me
 <p align="center" style="{height: auto;}">
-  <a href="https://linkedin.com/in/aswinkodev" target="_blank"><img height="38" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/predystopic-dev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
-  <a href="mailto:aswinkodev@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
-  <a href="https://aswinkodev.in" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=firefox" /></a>
+  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40"></a>
+  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adam pithen wala" height="30" width="40"></a>
+  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.adam._" height="30" width="40"></a>
+  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adampithewan" height="30" width="40"></a>
+ <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adampithewan" height="30" width="40"></a>
 </p>
 
 ---
