@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aswin K.O</h1>
-<h3 align="center">🚀 Full Stack Developer | MCA @ SJCET Palai | Tech Lead | Innovator</h3>
+<h3 align="center">🚀 Full Stack Developer | Big Data Engineer | Innovator</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
@@ -8,7 +8,6 @@
 ---
 
 ### 🧠 About Me
-- 🎓 MCA Student at **SJCET Palai**
 - 💻 Passionate **Full Stack Developer** and **Freelancer**
 - ⚙️ Skilled in building **AI-powered** and **Next.js** based applications  
 - 🧩 Interested in **AI integration**, **automation tools**, and **creative tech products**
