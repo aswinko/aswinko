@@ -40,7 +40,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/aswinkodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/aswinkodev" target="_blank"><img height="14" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/predystopic-dev" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" /></a>
   <a href="mailto:aswinkodev@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
   <a href="https://aswinkodev.in" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=firefox" /></a>
